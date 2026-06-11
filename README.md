@@ -1,4 +1,4 @@
-# Task 5: Research Report on the Importance of Patch Management
+# Task : Research Report on the Importance of Patch Management
 
 ## 📌 Objective
 The objective of this task is to analyze the critical role of patch management in maintaining an organization's security posture. This report examines the mechanics of vulnerability remediation, explores the severe operational and security consequences of patch deployment failures, and outlines an enterprise-grade framework for maintaining software updates.
